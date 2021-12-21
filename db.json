@@ -19,8 +19,8 @@
       "reminder": false
     },
     {
-      "text": "New Task",
-      "day": "December 20th at 3:30",
+      "text": "Another task",
+      "day": "Who cares",
       "reminder": false,
       "id": 4
     }
